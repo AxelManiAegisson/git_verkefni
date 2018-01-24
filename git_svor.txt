@@ -10,3 +10,10 @@ Git spurningar og svör
 	ESD Stendur fyrir Electrostatic Discharge, það er þegar rafmagn byrjar að flæða á milli tveggja rafhlaðaða hluti. Jörðun er mikilvæg og að taka í burtu alla hluti sem gætu komið að verkum að ESD gerist.
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 	Að spennan sem hann gefur passar við tölvuna þína
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+	1. Greina vandamál
+	2. Hver er ástæðan
+	3. Prófa lausn
+	5. Innleiða lausn
+	5. Prófa lausn
+	6. Skrá vandamál + lausn
