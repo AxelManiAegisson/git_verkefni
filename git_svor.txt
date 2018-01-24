@@ -17,3 +17,7 @@ Git spurningar og svör
 	5. Innleiða lausn
 	5. Prófa lausn
 	6. Skrá vandamál + lausn
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.	
+	Opinn spurning er Byrjuð me Afhverju eða Hvernig og vill að svarið verður langt og upplýsinga mikið en lokuð spurning vill að svarið sé stutt eða eitt orð.
+	Dæmi um opna spurningu: Afhverju er himininn blár?
+	DÆmi um lokaða spuringu: Líður þér betur?
