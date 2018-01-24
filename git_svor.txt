@@ -36,4 +36,7 @@ Svar:
 5.	Hverjir eru helstu kostir við að nota GIT?
 Svar:
 	Branches er góður kostur útaf því að þú getur byrjað að vinna í einhverju án þess að rústa master branchinu.
+6. 	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+Svar: 
+	Alltaf þegar einhvað virkar og allir eru sammála
 			
