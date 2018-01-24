@@ -6,4 +6,5 @@ Git spurningar og svör
 	ROM stendur fyrir Read Only Memory og það er minni sem tölva getur einungis lesið.
 3. Hvað er fyrirbyggjandi viðhald?
 	Reglubundið viðhald til að koma í veg fyrir óvæntar bilanir.
-	
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+	ESD Stendur fyrir Electrostatic Discharge, það er þegar rafmagn byrjar að flæða á milli tveggja rafhlaðaða hluti. Jörðun er mikilvæg og að taka í burtu alla hluti sem gætu komið að verkum að ESD gerist.
