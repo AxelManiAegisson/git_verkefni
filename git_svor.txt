@@ -10,3 +10,14 @@
 	ESD Stendur fyrir Electrostatic Discharge, það er þegar rafmagn byrjar að flæða á milli tveggja rafhlaðaða hluti. Jörðun er mikilvæg og að taka í burtu alla hluti sem gætu komið að verkum að ESD gerist.
 ##5. Hvað þarf að hafa í huga við val á spennugjöfum?
 	Að spennan sem hann gefur passar við tölvuna þína
+##6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+	1. Greina vandamál
+	2. Hver er ástæðan
+	3. Prófa lausn
+	5. Innleiða lausn
+	5. Prófa lausn
+	6. Skrá vandamál + lausn
+##7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.	
+	Opinn spurning er Byrjuð me Afhverju eða Hvernig og vill að svarið verður langt og upplýsinga mikið en lokuð spurning vill að svarið sé stutt eða eitt orð.
+	Dæmi um opna spurningu: Afhverju er himininn blár?
+	DÆmi um lokaða spuringu: Líður þér betur?
