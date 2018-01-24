@@ -21,3 +21,5 @@
 	Opinn spurning er Byrjuð me Afhverju eða Hvernig og vill að svarið verður langt og upplýsinga mikið en lokuð spurning vill að svarið sé stutt eða eitt orð.
 	Dæmi um opna spurningu: Afhverju er himininn blár?
 	DÆmi um lokaða spuringu: Líður þér betur?
+##8. Hvað eru jaðartæki?
+	T.d. Lyklaborð, Mús og Prentarar.
