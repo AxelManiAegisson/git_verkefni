@@ -36,13 +36,13 @@
 	Lyklaborð, Mús og Microphone
 ## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 
-	|   Hlutur  				|   Hvar hann fæst	 		|	Verð			|
-	|---------------------------|:-------------------------:|------------------:|
-	|Cooler Master Silencio 352	|Tölvulistinn				|10.493	ISK			|
-	|MSI Z270 Gaming M5		 	|Tölvulistinn				|37.995	ISK			|
-	|Corsair CX 550W ATX 		|Tölvulistinn				|14.396	ISK			|	
-	|16 GB (2x8 GB) 3200 MHz	|Tölvutækni					|29.900	ISK			|
-	|Corsair H100i V2		 	|att.is						|24.950	ISK			|
-	|512 GB Samsung 850 PRO		|Tölvutækni					|41.900	ISK			|
-	|Intel I7 7700K			 	|Tölvutækni					|43.900	ISK			|
-	|GTX 1060 6 GB				|Ódýrið				 		|40.900 ISK			|
+|   Hlutur  				|   Hvar hann fæst	 		|	Verð			|
+|---------------------------|:-------------------------:|------------------:|
+|Cooler Master Silencio 352	|Tölvulistinn				|10.493	ISK			|
+|MSI Z270 Gaming M5		 	|Tölvulistinn				|37.995	ISK			|
+|Corsair CX 550W ATX 		|Tölvulistinn				|14.396	ISK			|	
+|16 GB (2x8 GB) 3200 MHz	|Tölvutækni					|29.900	ISK			|
+|Corsair H100i V2		 	|att.is						|24.950	ISK			|
+|512 GB Samsung 850 PRO		|Tölvutækni					|41.900	ISK			|
+|Intel I7 7700K			 	|Tölvutækni					|43.900	ISK			|
+|GTX 1060 6 GB				|Ódýrið				 		|40.900 ISK			|
