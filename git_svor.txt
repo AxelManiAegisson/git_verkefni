@@ -43,4 +43,9 @@ Svar:
 Svar:
 	Working directory er staðurinn sem þú gerir breytingar
 	Staging Area er staðurinn sem þú lítur yfir breytingarnar
-	Repository er geymslan sem þú geymir breytingarnar			
+	Repository er geymslan sem þú geymir breytingarnar
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+Svar:
+	Í hvert skipti sem þú vilt prufa einhvað en vilt ekki að það hafi áhrif að master greinina.
+					
