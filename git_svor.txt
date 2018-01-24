@@ -39,4 +39,8 @@ Svar:
 6. 	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 Svar: 
 	Alltaf þegar einhvað virkar og allir eru sammála
-			
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+Svar:
+	Working directory er staðurinn sem þú gerir breytingar
+	Staging Area er staðurinn sem þú lítur yfir breytingarnar
+	Repository er geymslan sem þú geymir breytingarnar			
