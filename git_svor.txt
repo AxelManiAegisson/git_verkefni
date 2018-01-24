@@ -32,4 +32,8 @@ Svar:
 	Veit ekki	
 4. 	Hvað er útgáfustýring (e.version control)?
 Svar: 
-	Það sér um breytingar á Skjölum, forritum, stórum síðum og öðrum stórum söfnum af efnum.	
+	Það sér um breytingar á Skjölum, forritum, stórum síðum og öðrum stórum söfnum af efnum.
+5.	Hverjir eru helstu kostir við að nota GIT?
+Svar:
+	Branches er góður kostur útaf því að þú getur byrjað að vinna í einhverju án þess að rústa master branchinu.
+			
