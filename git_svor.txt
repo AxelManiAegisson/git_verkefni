@@ -23,3 +23,5 @@
 	DÆmi um lokaða spuringu: Líður þér betur?
 ##8. Hvað eru jaðartæki?
 	T.d. Lyklaborð, Mús og Prentarar.
+##9. Nefndu þrjú dæmi um inntakstæki.
+	Lyklaborð, Mús og Microphone
