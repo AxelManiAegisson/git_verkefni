@@ -24,3 +24,9 @@ Svar:
 	git status = Sýnir statusinn á directoryinu
 	git diff = Sýnir breytingar á milli commits og working tréð
 	git checkout = Fara á milli branches	
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+Svar: 
+	Veit ekki	
